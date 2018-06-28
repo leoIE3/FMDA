@@ -1,0 +1,14 @@
+Statistics about the emission data of Lithuania for the time series from 1985 until 2015
+ 
+Name 				 Value 			 Unit
+
+Mean 				 326.52 		 Gg CO2-eq
+Median 				 79.2799 		 Gg CO2-eq
+Standard deviation 		 1393.15 		 Gg CO2-eq
+Min. emission 			 -9719.29 		 Gg CO2-eq
+Max. emission 			 12888.2 		 Gg CO2-eq
+Skewnwss 		 -0.635932 
+chi square 			 33.0395 
+p-value of chi-square			 nan 
+Pearson correlation coefficient 	 0.994 
+Pearson p-value 			 6.73154e-08 
